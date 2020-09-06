@@ -1,6 +1,6 @@
 # Welcome to my github! 👋
 
-<div align="center">
+<div align="center" width:cover>
 	 <img src="https://i.ibb.co/L0HFkpx/My-Post.png"> 
 </div>
 
