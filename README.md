@@ -22,7 +22,7 @@ Hey!I am a student persuiung B.Tech from  VIT,Vellore who tries to learn new thi
 - Write a book 📚 
 
 ## Reach me 💯
-[![Github](https://img.shields.io/github/followers/musk101?label=Follow&style=social)](https://github.com/musk101) 💯
+[![Github](https://img.shields.io/github/followers/musk101?label=Follow&style=social)](https://github.com/musk101) 
 [![Instagram](https://img.shields.io/badge/-@muskannagarwal-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sarthak_bharadwaj_/)](https://www.instagram.com/muskannagarwal/)
 [![Linkedin](https://img.shields.io/badge/-Muskan%20Agarwal-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/muskan-agarwal-808ab0165/)](https://www.linkedin.com/in/muskan-agarwal-808ab0165/)
 [![Mail](https://img.shields.io/badge/-muskanagarwal1906@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)](mailto:sarthakbh321@gmail.com)
