@@ -7,6 +7,8 @@
 ## About me 👩:
 Hey!I am a student persuing B.Tech from  VIT,Vellore who tries to learn new things every single day.I have failed ennumber of times in my life but nothing can stop me from learning new technologies.I always try to work with people who know better than me so that I can come out of my comfort zone.I am a frontend Developer and also does Competetive coding.
 
+Apart from all this I love to read books and binge watch some murder mystery and I really wish to write a book one day.
+
 ## What I know :computer:
 - **Competitive Programming**
 	- Python ❤️
