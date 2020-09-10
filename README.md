@@ -34,7 +34,35 @@ Apart from all this I love to read books and binge watch some murder mystery and
 
 ![muskan's stats](https://github-readme-stats.vercel.app/api?username=musk101&show_icons=true&count_private=true&hide=stars)
 
-Thanks for stopping by! 😁
+#### Thanks for visiting :heart:
+![VisitorCount](https://profile-counter.glitch.me/musk101/count.svg)
+
+
+
+<br>
+<br>
+
+<!--
+<table>
+<tbody>
+ <tr>
+<td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"> 
+</td>
+<td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
+</td>
+</tr>
+</tbody>
+</table>
+<br>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musk101&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=musk101&&show_icons=true&theme=radical" alt="My Github Stats">
+</p>
+<a href="https://github.com/musk101">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musk101&theme=radical" />
+</a>
 
 <!--
 **musk101/musk101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
