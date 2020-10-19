@@ -23,7 +23,7 @@ Apart from all this I love to read books and binge watch some murder mystery and
 - Learn Backend Development
 - Write a book 📚 
 
-## Connect with me 💯
+## Be my distraction 💯
 [![Github](https://img.shields.io/github/followers/musk101?label=Follow&style=social)](https://github.com/musk101) 
 [![Instagram](https://img.shields.io/badge/-@muskannagarwal-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sarthak_bharadwaj_/)](https://www.instagram.com/muskannagarwal/)
 [![Linkedin](https://img.shields.io/badge/-Muskan%20Agarwal-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/muskan-agarwal-808ab0165/)](https://www.linkedin.com/in/muskan-agarwal-808ab0165/)
