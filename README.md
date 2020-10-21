@@ -20,7 +20,7 @@ Apart from all this I love to read books and binge watch some murder mystery and
 
 ## What I want to do next :thinking:
 - I want to explore the field of web designing
-- Learn Backend Development
+- Become a Full Stack Developer
 - Write a book 📚 
 
 ## Be my distraction 💯
