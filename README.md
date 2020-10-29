@@ -1,4 +1,4 @@
-# Welcome to my github! 👋
+# Welcome to my github Profile! 👋
 
 <div align="center" width:cover>
 	 <img src="https://i.ibb.co/L0HFkpx/My-Post.png"> 
@@ -19,7 +19,7 @@ Apart from all of this I am an avid reader and love to binge watch some murder m
 	- Bootstrap
 
 ## What I want to do next :thinking:
-- I want to explore the field of Designing
+- I want to explore and learn more about the field of Designing
 - Become a Full Stack Developer(In Progress)
 - Write a book 📚 
 
