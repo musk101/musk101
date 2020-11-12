@@ -9,7 +9,7 @@ Hey! I am a second year student persuing B.Tech in Information Technology from  
 
 Apart from all of this I am an avid reader and love to binge watch some murder mystery and I really wish to write a book one day.
 
-## What I know :computer:
+## What all I know :computer:
 - **Competitive Programming**
 	- Python ❤️
 	- C++ (just started with it)
@@ -34,7 +34,7 @@ Apart from all of this I am an avid reader and love to binge watch some murder m
 
 ![muskan's stats](https://github-readme-stats.vercel.app/api?username=musk101&show_icons=true&count_private=true&hide=stars)
 
-#### Thanks for visiting :heart:
+#### ThankYoufor visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/musk101/count.svg)
 
 
