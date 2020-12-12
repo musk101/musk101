@@ -5,7 +5,7 @@
 </div>
 
 ## Who am I? 👩:
-Hey! I am a second year student persuing B.Tech in Information Technology from  VIT, Vellore who tries to learn new things every single day. I have failed ennumber of times but nothing can stop me from learning new technologies.I always try to work with people who are better than I am so that I can come out of my comfort zone and learn new things. I am a frontend Developer and also interested Competetive coding.
+Hey! I am a second year student pursuing B.Tech in Information Technology from  VIT, Vellore who tries to learn new things every single day. I have failed ennumber of times but nothing can stop me from learning new technologies.I always try to work with people who are better than I am so that I can come out of my comfort zone and learn new things. I am a frontend Developer and also interested Competetive coding.
 
 Apart from all of this I am an avid reader and love to binge watch some murder mystery and I really wish to write a book one day.
 
