@@ -10,7 +10,7 @@ Hey! I am a second year student pursuing B.Tech in Information Technology from  
 Apart from all of this I am an avid reader and love to binge watch some murder mystery and I really wish to write a book one day.
 
 ## What all I know :computer:
-- **Competitive Programming**
+- **Competetive Programming**
 	- Python ❤️
 	- C++ (just started with it)
 	- Some Java
