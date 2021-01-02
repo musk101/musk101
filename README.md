@@ -5,19 +5,19 @@
 </div>
 
 ## Who am I? 👩:
-Hey! I am a second year student pursuing B.Tech in Information Technology from  VIT, Vellore who tries to learn new things every single day. I have failed ennumber of times but nothing can stop me from learning new technologies.I always try to work with people who are better than I am so that I can come out of my comfort zone and learn new things. I am a frontend Developer and also interested Competetive coding.
+Hey! I am a second year student pursuing B.Tech in Information Technology from  VIT, Vellore who tries to learn new things every single day. I have failed ennumber of times but nothing can stop me from learning new technologies. I always try and work with people who are better than I am so that I can come out of my comfort zone and learn new things. I am a frontend Developer and also Interested in Competetive Coding.
 
 Apart from all this I am an avid reader and love to binge watch some murder mystery and I really wish to write a book one day.
 
 ## What all I know :computer:
 - **Competetive Programming**
 	- Python ❤️
-	- C++ (just started with it)
-	- Some Java
+	- C++ 
+	- Started with Java
 - **Frontend Development**
 	- HTML, CSS and JS :white_check_mark:
 	- Bootstrap
-	-ReactJS
+	- ReactJS
 
 ## What will I be doing next :thinking:
 - I want to explore and learn more about the field of Designing
