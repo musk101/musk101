@@ -17,7 +17,7 @@ Apart from all this I am an avid reader and love to binge watch some murder myst
 - **Frontend Development**
 	- HTML, CSS and JS :white_check_mark:
 	- Bootstrap
-	- ReactJS
+	- React + Redux
 
 ## What will I be doing next :thinking:
 - I want to explore and learn more about the field of Designing
