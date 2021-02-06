@@ -4,7 +4,7 @@
 	 <img src="https://i.ibb.co/L0HFkpx/My-Post.png"> 
 </div>
 
-## Who am I? 👩:
+## About me? 👩:
 Hey! I am a second year student pursuing B.Tech in Information Technology from  VIT, Vellore who tries to learn new things every single day. I have failed ennumber of times but nothing can stop me from learning new technologies. I always try and work with people who are better than I am so that I can come out of my comfort zone and learn new things. I am a frontend Developer and also Interested in Competetive Coding.
 
 Apart from all this I am an avid reader and love to binge watch some murder mystery and I really wish to write a book one day.
