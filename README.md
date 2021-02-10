@@ -9,6 +9,8 @@ Hey! I am a second year student pursuing B.Tech in Information Technology from  
 
 Apart from all this I am an avid reader and love to binge watch some murder mystery and I really wish to write a book one day.
 
+My Blogs: [![Medium](https://img.shields.io/medium/followers/muskanagarwall?label=Follow&style=social)](https://medium.com/@muskanagarwall) 
+
 ## What all I know :computer:
 - **Competetive Programming**
 	- Python ❤️
