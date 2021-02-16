@@ -9,7 +9,9 @@ Hey! I am a second year student pursuing B.Tech in Information Technology from  
 
 Apart from all this I am an avid reader and love to binge watch some murder mystery and I really wish to write a book one day.
 
-Link To My Blogs : [[Click Here]](https://medium.com/me/stories/public) 
+Link To My Blogs : [[Click Here]](https://medium.com/me/stories/public)
+
+My Resume: [[Click Here]](https://drive.google.com/file/d/1fLErt6wep2nEpuBAQyB78NPm9WhMf0Ft/view?usp=sharing)
 
 ## What all I know :computer:
 - **Competetive Programming**
