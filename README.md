@@ -21,10 +21,10 @@ My Resume: [[Click Here]](https://drive.google.com/file/d/1fLErt6wep2nEpuBAQyB78
 - **Frontend Development**
 	- HTML, CSS and JS :white_check_mark:
 	- Bootstrap
-	- React + Redux
+	- React+ Redux
 
 ## What will I be doing next :thinking:
-- I want to explore and learn more about the field of Designing
+- I want to explore the field of Designing
 - Become a Full Stack Developer(In Progress)
 - Write a book 📚 
 
