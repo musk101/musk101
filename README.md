@@ -39,7 +39,7 @@ My Resume: [[Click Here]](https://drive.google.com/file/d/1fLErt6wep2nEpuBAQyB78
 
 ![muskan's stats](https://github-readme-stats.vercel.app/api?username=musk101&show_icons=true&count_private=true&hide=stars)
 
-#### ThankYoufor visiting :heart:
+#### ThankYou for visiting to my profile :heart:
 ![VisitorCount](https://profile-counter.glitch.me/musk101/count.svg)
 
 
